@@ -2,7 +2,13 @@
 
 **FFV** is a script that installs a selection of Firefox versions, creates profiles for each version and hard binds each version to it's profile. It also disables auto updates and the default browser check.
 
-It currently installs Firefox **3.6.9**, **4.0.1**, **5.0.1**, **6.0.2**, **7.0.1**, **8.0.1**, **9.0.1**, **10.0.1**, **11.0**, **12.0**, **13.0**, **14.0**, **15.0**, **16.0**, **17.0**, **18.0.2**, **19.0.2**, **20.0.1** & **21.0**
+It currently installs Firefox versions: 
+```
+	'3.6.9' '4.0.1' '5.0.1' '6.0.2' '7.0.1' '8.0.1' '9.0.1' 
+	'10.0.1' '11.0' '12.0' '13.0' '14.0.1' '15.0.1' '16.0.2' '17.0.1' '18.0.2' '19.0.2'
+	'20.0.1' '21.0' '22.0' '23.0.1' '24.0' '25.0.1' '26.0' '27.0.1' '28.0' '29.0.1'
+	'30.0' '31.0' '32.0.3' '33.1.1' '34.0' '35.0.1' '36.0.4' '37.0.1'
+```
 
 This script assumes that you are probably running a standard, autoupdating copy of Firefox with a configured profile and will leave it alone. It's perfectly safe to run this along side a standard Firefox install.
 
