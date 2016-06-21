@@ -58,3 +58,5 @@ The Firefox versions are installed to `/Applications/Firefox-Versions/` and the 
 * ~~Option to empty the cache and force a fresh download of the .dmgs~~
 * ~~An uninstall option that removes the cache, the firefox apps and the profiles~~
 * Maybe scrape the firefox release page to work out when new major versions are released
+
+
