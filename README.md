@@ -62,3 +62,4 @@ The Firefox versions are installed to `/Applications/Firefox-Versions/` and the 
 
 ☃
 ☃
+☃
