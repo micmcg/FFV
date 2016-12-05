@@ -1,5 +1,7 @@
 # FFV - Firefox Versions
 
+
+
 **FFV** is a script that installs a selection of Firefox versions, creates profiles for each version and hard binds each version to it's profile. It also disables auto updates and the default browser check.
 
 It currently installs Firefox versions: 
@@ -58,3 +60,5 @@ The Firefox versions are installed to `/Applications/Firefox-Versions/` and the 
 * ~~Option to empty the cache and force a fresh download of the .dmgs~~
 * ~~An uninstall option that removes the cache, the firefox apps and the profiles~~
 * Maybe scrape the firefox release page to work out when new major versions are released
+
+☃
