@@ -60,3 +60,4 @@ The Firefox versions are installed to `/Applications/Firefox-Versions/` and the 
 * Maybe scrape the firefox release page to work out when new major versions are released
 
 ☃
+☃
