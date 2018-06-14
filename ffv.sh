@@ -26,20 +26,6 @@ while getopts ":u :c :f" opt; do
   esac
 done
 
-if $uninstall
-    then
-        echo "### Uninstalling FFV ###"
-        echo "  # Removing FFV Cache #"
-        rm -rf ~/.ffv
-        echo "  # Removing FFV Firefox Applications #"
-        rm -rf /Applications/Firefox-Versions
-        echo "  # Removing FFV profiles"
-        for i in "${versions[@]}"; do
-            rm -rf ~/Library/Application\ Support/Firefox/Profiles/*.Firefox-$i-FFV
-        done
-        echo "### FFV Uninstall complete ###"
-        exit
-fi
 if $clean
     then
         echo "Enabling -Clean mode, will download fresh copies of the installers"
